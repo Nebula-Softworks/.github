@@ -14,7 +14,10 @@
   
   ## 🌠 Latest Updates
   **Join [our discord](https://dsc.gg/nebulasoftworks)** to stay up-to-date with all things related to Us!
-
+  
+  ## ✨ Nebula Client!
+  The Next Generation Of Roblox Eploiting! [Start using now!](https://github.com/Nebula-Softworks/Nebula-Client-Development)
+  
   ## ✨ Starlight!
   The Best UI Library for Roblox Scripts! [Start using now!](https://github.com/Nebula-Softworks/Starlight-Interface-Suite)
 
