@@ -6,24 +6,62 @@
 
   <h1>Nebula Softworks</h1>
 
-  <p>Welcome to the GitHub organization of Nebula Softworks.🌌</p>
+**Extending Beyond The Stars.**
 
-  <a href="https://nebulasoftworks.xyz">🌐 Visit our website</a> · 
+[![Discord](https://img.shields.io/badge/Discord-join-0066cc?style=for-the-badge&logo=Discord&logoColor=white)](https://dsc.gg/nebulasoftworks)
+[![GitHub](https://img.shields.io/badge/GitHub-Nebula%20Softworks-181717?style=for-the-badge&logo=github)](https://github.com/Nebula-Softworks)
+[![Website](https://img.shields.io/badge/Website-Visit-0066cc?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://nebulasoftworks.xyz)
 
-  <hr>
+
+---
+
+## About Us
+
+We're a software development team focused on building high-quality, performant applications. Our work spans from low-level systems programming to modern and sleek interface designs, with a commitment to open-source collaboration.
+
+### What We Build
+
+- **Modern User Interfaces** — Responsive and intuitive designs
+- **High-Performance Applications** — Optimized C++ and C# solutions
+- **Luau Development Assets** — Interface and Function Libraries for Luau Script Developers to use
+
+---
+
+## Tech Stack
+
+```
+Luau       ████████████████████  95%
+C#         █████████████████░░░  75%
+C++        ████████████░░░░░░░░  60%
+```
+
+---
+
+## Projects
+
+Explore our collection of open-source tools and applications.
+
+### 🪐 **[Nebula Client](https://github.com/Nebula-Softworks/Nebula-Client-Development)**  
+Next Generation Roblox Exploting. | Roblox Development Tool  
+### ✨ **[Starlight Interface Suite](https://github.com/Nebula-Softworks/Starlight-Interface-Suite)**  
+Simply Better Than Others. | Roblox UI Library  
+### 💫 **[Twilight ESP Suite](https://github.com/Nebula-Softworks/Twilight-ESP)**  
+The Extrasensory Star. | Roblox ESP Library  
+
   
-  ## 🌠 Latest Updates
-  **Join [our discord](https://dsc.gg/nebulasoftworks)** to stay up-to-date with all things related to Us!
-  
-  ## ✨ Nebula Client!
-  The Next Generation Of Roblox Eploiting! [Start using now!](https://github.com/Nebula-Softworks/Nebula-Client-Development)
-  
-  ## ✨ Starlight!
-  The Best UI Library for Roblox Scripts! [Start using now!](https://github.com/Nebula-Softworks/Starlight-Interface-Suite)
+**And More...**  
+**[View All Repositories →](https://github.com/orgs/Nebula-Softworks/repositories)**  
 
-  ## ✨ Twilight!
-  An ESP Library for Roblox projects done right! [Start using now!](https://github.com/Nebula-Softworks/Twilight-ESP)
+---
 
-  <br>
-  <sub>© Nebula Softworks LLC 2024-2025. All rights reserved.</sub><br>
-</div>
+## Why Our Tools
+
+⚡ **Performance** — Optimized for speed and efficiency  
+✨ **Design** — Clean, intuitive interfaces  
+🔓 **Open Source** — Fully transparent and modifiable  
+🛠️ **Maintained** — Actively developed and tested
+
+---
+
+  <sub>© Nebula Softworks LLC 2024-2026. All rights reserved.</sub><br>
+  </div>
