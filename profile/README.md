@@ -8,9 +8,9 @@
 
 **Extending Beyond The Stars.**
 
-[![Discord](https://img.shields.io/badge/Discord-join-0066cc?style=for-the-badge&logo=Discord&logoColor=white)](https://dsc.gg/nebulasoftworks)
-[![GitHub](https://img.shields.io/badge/GitHub-Nebula%20Softworks-181717?style=for-the-badge&logo=github)](https://github.com/Nebula-Softworks)
-[![Website](https://img.shields.io/badge/Website-Visit-0066cc?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://nebulasoftworks.xyz)
+[![Discord](https://img.shields.io/badge/Discord%20Server-join-7289da?logo=Discord&logoColor=white)](https://dsc.gg/nebulasoftworks)
+[![GitHub](https://img.shields.io/badge/GitHub-Nebula%20Softworks-1b1a1e?logo=github)](https://github.com/Nebula-Softworks)
+[![Website](https://img.shields.io/badge/Website-Visit-C654E6?logo=firefoxbrowser&logoColor=white)](https://nebulasoftworks.xyz)
 
 
 ---
