@@ -10,7 +10,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord%20Server-join-7289da?logo=Discord&logoColor=white)](https://dsc.gg/nebulasoftworks)
 [![GitHub](https://img.shields.io/badge/GitHub-Nebula%20Softworks-1b1a1e?logo=github)](https://github.com/Nebula-Softworks)
-[![Website](https://img.shields.io/badge/Website-Visit-C654E6?logo=firefoxbrowser&logoColor=white)](https://nebulasoftworks.xyz)
+[![Website](https://img.shields.io/badge/Website-Visit-C654E6?logo=stardock&logoColor=white)](https://nebulasoftworks.xyz)
 
 
 ---
